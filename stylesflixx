@@ -1,0 +1,83 @@
+Skip to content
+Navigation Menu
+alura-cursos
+/
+aluraflix
+
+Type / to search
+Code
+Pull requests
+11
+Actions
+Projects
+Security
+Insights
+Commit
+aula 7
+ aula7 aula8
+@giullianacestari
+giullianacestari committed on May 21 
+1 parent 4c8729c
+commit 1f087de
+Showing 1 changed file with 16 additions and 4 deletions.
+  20 changes: 16 additions & 4 deletions20  
+styles.css
+Original file line number	Diff line number	Diff line change
+@@ -3,6 +3,7 @@ body {
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+    margin-bottom: 100px;
+}
+
+header {
+@@ -32,10 +33,6 @@ p {
+    font-size: 20px;
+}
+
+img {
+    height: 200px;
+}
+
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+@@ -45,4 +42,19 @@ img {
+.categoria {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+.categoria-videos img:hover {
+    opacity: 1.0;
+    border: 3px solid green;
+}
+
+.categoria h2 {
+    color: rgb(42, 122, 228);
+}
+0 comments on commit 1f087de
+@anacarolinabordin
+Comment
+ 
+Leave a comment
+ 
+ You’re not receiving notifications from this thread.
+Footer
+© 2024 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
+Manage cookies
+Do not share my personal information
+aula 7 · alura-cursos/aluraflix@1f087de
